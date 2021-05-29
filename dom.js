@@ -45,6 +45,5 @@ function menus(){
     
 
 
-// EVENT LISTNER 
-// document.getElementsById("mybtn").addEventListener("click",function(){});
+
 
